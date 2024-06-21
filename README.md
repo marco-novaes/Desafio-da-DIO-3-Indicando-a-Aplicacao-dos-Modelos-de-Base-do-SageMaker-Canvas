@@ -15,7 +15,7 @@ A entrada consiste no nome do modelo de base do SageMaker Canvas para o qual voc
  - "Falcon"
  - "MPT"
 # Saída
-A saída esperada é a aplicação associada ao modelo fornecido como entrada. Seguem as saídas possíveis, listadas aleatoriamente, para que você possa analisar e associar corretamente:
+A saída esperada é a aplicação associada ao modelo fornecido como entrada. Seguem as saídas possíveis, **listadas aleatoriamente**, para que você possa analisar e associar corretamente:
 
  - "Processamento de linguagem natural e geração de texto"
  - "Análises de dados complexos"
